@@ -1,0 +1,56 @@
+Política de Privacidad de GrupoRv2
+
+Fecha de entrada en vigencia: 04-NOV-2023
+
+1. Información de Contacto
+
+Nombre de la empresa: GrupoRv2
+Dirección: Cra 9 # 19 30 local 202
+Teléfonos de contacto: 3208576038, 3213213756
+Correo electrónico de contacto: [Tu correo electrónico de contacto]
+2. Información sobre la Aplicación
+
+La aplicación GrupoRv2 permite a los usuarios crear y generar archivos PDF o códigos QR que contienen información sobre envíos a nivel nacional. Esta información puede incluir los siguientes datos:
+
+Ciudad de destino.
+Número de teléfono de contacto.
+Nombre del conductor.
+Número de cédula del conductor.
+Nombre de la persona que envía.
+Nombre de la persona que recibe.
+Detalles de los artículos enviados.
+Peso de los artículos.
+Además, la aplicación permite a los usuarios visualizar un historial de los envíos creados, incluyendo la fecha de creación.
+
+3. Recopilación de Datos
+
+La aplicación recopila los siguientes tipos de datos:
+
+Datos de registro: Cuando los usuarios crean o generan un envío, se pueden recopilar datos como ciudad, teléfono, nombre del conductor, cédula, nombres de personas involucradas, detalles de los artículos y peso.
+4. Uso de los Datos
+
+Los datos recopilados se utilizan para los siguientes fines:
+
+Crear y generar archivos PDF o códigos QR con información de envíos.
+Permitir a los usuarios ver su historial de envíos.
+Comunicarse con los usuarios sobre sus envíos.
+Mejorar y mantener la funcionalidad de la aplicación.ß
+5. Compartir Datos con Terceros
+
+No compartimos la información recopilada a través de la aplicación con terceros, a menos que sea necesario para proporcionar los servicios solicitados o estemos obligados por ley.
+
+6. Seguridad de Datos
+
+Implementamos medidas de seguridad razonables para proteger la información recopilada en la aplicación y garantizar la privacidad de los usuarios.
+
+7. Acceso y Control de Datos
+
+Los usuarios pueden acceder y actualizar la información de envío que han creado en la aplicación. También pueden eliminar sus envíos previos si lo desean. Para cualquier solicitud relacionada con datos personales, pueden ponerse en contacto con nosotros a través de udelectronicsbogota@gmail.com
+
+8. Cambios en esta Política
+
+Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento. Notificaremos a los usuarios de cualquier cambio significativo y proporcionaremos la opción de revisar y aceptar la nueva política antes de continuar utilizando la aplicación.
+
+9. Leyes y Regulaciones Aplicables
+
+Cumplimos con todas las leyes y regulaciones de privacidad aplicables en Colombia.
